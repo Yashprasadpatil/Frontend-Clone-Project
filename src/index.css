@@ -1,0 +1,13 @@
+a{
+    font-family: monospace;
+    text-decoration: none;
+    color:black;
+    margin-right: 10px;
+    font-weight: 700;
+}
+body{
+    background-color: rgb(245, 247, 247) ;
+}
+::-webkit-scrollbar{
+    display: none;
+}
